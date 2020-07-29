@@ -27,6 +27,7 @@ h1, h2, h3 {
   margin-bottom: 15px;
   align-self: center;
   border-radius: 6px;
+  transition: 0.3s;
 }
 .friends:hover{
   font-size: 18px;
@@ -47,6 +48,7 @@ h1, h2, h3 {
   filter: grayscale(100%);
   width: 250px;
   border: 10px solid #5EFC8D;
+  transition: 1.5s;
 }
 .pic:hover{
   filter: grayscale(10%);
@@ -59,7 +61,8 @@ h1, h2, h3 {
   display: flex;
   flex-direction: column;
   justify-content: space-between;
-  border-radius: 10px
+  border-radius: 10px;
+  transition: 0.8s;
 }
 
 .card:hover > h1, .card:hover > h2{
@@ -87,6 +90,7 @@ li a {
   padding: 16px;
   text-decoration: none;
   font-size: 40px;
+  transition: 0.3s;
 }
 
 li a:hover {
