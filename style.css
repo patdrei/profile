@@ -63,7 +63,7 @@ h1, h2, h3 {
 
 .card:hover {
   padding: 30px;
-  box-shadow: 12px 12px #5EFC8D;
+  box-shadow: 10px 10px #5EFC8D;
   background-image:url(https://media.giphy.com/media/l41lTDTwmpN2BdtWo/giphy.gif);
   color: #5EFC8D;
 }
