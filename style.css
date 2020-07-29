@@ -44,7 +44,7 @@ h1, h2, h3 {
   align-self: center;
   border-radius: 50%;
   filter: grayscale(100%);
-  width: 400px;
+  width: 250px;
   border: 10px solid #5EFC8D;
 }
 .pic:hover{
@@ -59,6 +59,10 @@ h1, h2, h3 {
   flex-direction: column;
   justify-content: space-between;
   border-radius: 10px
+}
+
+.card:hover > h1{
+  color: #5EFC8D;
 }
 
 .card:hover {
